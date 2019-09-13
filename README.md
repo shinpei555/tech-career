@@ -1,30 +1,8 @@
 # README
+## ツール・ライブラリの名前
+TECH CAREER
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## 簡単な説明
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-# DB設計
-## groups_usersテーブル
-
-|Column|Type|Options|
-|------|----|-------|
-|user_id|integer|null: false, foreign_key: true|
-|group_id|integer|null: false, foreign_key: true|
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+![URL](https://www.google.com/search?q=%E3%81%A7%E3%82%82&rlz=1C5CHFA_enJP798JP798&oq=%E3%81%A7%E3%82%82&aqs=chrome..69i57j0j69i65l3j69i61.875j0j7&sourceid=chrome&ie=UTF-8)
+## 機能
