@@ -40,3 +40,5 @@ slackでキャリアアドバイザーとやりとりをすることに課題を
 
 ### 作者
 [Shinpei Abe](https://shinpei555.github.io)
+
+![画像の説明](app/assets/images/tech-careerDB.png)
