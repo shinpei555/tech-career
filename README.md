@@ -16,7 +16,7 @@ slackでキャリアアドバイザーとやりとりをすることに課題を
 - 求人(job)の編集機能
 - 求人(job)の一覧表示、詳細表示
 - キャリアアドバイザーと生徒の1対1のチャット機能
-### DB設計
+### DB設計(ER図)
 ![DB設計](app/assets/images/tech-careerDB.png)
 ### 使用している技術一覧
 * HTML(BEM)
@@ -39,9 +39,9 @@ slackでキャリアアドバイザーとやりとりをすることに課題を
 ![企業登録](app/assets/images/t-job.png)
 ![企業一覧](app/assets/images/t-jobindex.png)
 ![生徒一覧](app/assets/images/t-stu.png)
-![チャット一覧](app/assets/images/t-stu.png)
+![チャット一覧](app/assets/images/t-chat.png)
 4. 企業一覧の企業名をクリックすると「企業の詳細」と「その企業に対する生徒の選考状況」を表示することができます。
-![企業詳細](app/assets/images/t-chat.png)
+![企業詳細](app/assets/images/t-jobshow.png)
 5. 生徒一覧の生徒名をクリックするとその生徒の応募状況が表示できます。
 6. チャット作成から生徒を選択しボタンを押すと一覧に生徒が表示され、チャットができるようになります。
 7. チャット一覧で現在チャットしている生徒を表示できます。
